@@ -62,7 +62,14 @@
 # The method takes in a number and a max value then finds all multiples 
 # of the number up to the max value.
 
-def h4
+# def h4
+#   num = 2
+#   max = 10
+#   (1..max).select do |i|
+#      = (i % num == 0)
+#     puts mults.each
+#   end
+# end
+# h4
+# THIS ONE STUMPED ME SO I MOVED ON
 
-
-end
