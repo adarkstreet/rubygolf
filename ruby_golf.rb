@@ -73,3 +73,13 @@
 # h4
 # THIS ONE STUMPED ME SO I MOVED ON
 
+# ==============================
+# HOLE 5
+# ake in a string and an offset, encrypt the string by moving letters over 
+# by the offset and return the encrypted string (e.g “ab”, 3 would return “de”). 
+# When you hit Z loop back to A.
+
+def cipher(string, offset)
+  arr = []
+  "" + offset
+end
